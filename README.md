@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @nkurata
-- 👀 I’m interested in programming lol
-- 🌱 I’m currently learning python and c
-- 📫 How to reach me noe.ataruk@gmail.com
+- 👀 I’m interested in programming 
 
 <!---
 nkurata/nkurata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
