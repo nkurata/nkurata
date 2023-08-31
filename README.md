@@ -1,4 +1,4 @@
-- 👋 Hi, I’m noe
+- hi
 - Part of The Epitech International Track Program (2027)
 - Aspiring millionaire
 
