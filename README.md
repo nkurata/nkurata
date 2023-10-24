@@ -1,6 +1,5 @@
 - hi
 - Part of The Epitech International Track Program (2027)
-- Aspiring millionaire
 
 <!---
 nkurata/nkurata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
