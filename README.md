@@ -1,4 +1,3 @@
-- Part of The Epitech International Track Program (2027)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkurata&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkurata)
 <!---
