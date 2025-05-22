@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noé Kurata</h1>
-<h3 align="center">Junior Data Engineer @DEPT - Third-year Undergraduate Student at Epitech – Freelance Web Developer and Visual Artist on my free time</h3>
+<h3 align="center">Junior Data Engineer @DEPT as a Working Student - Third-year Undergraduate Student at Epitech – Freelance Web Developer and Visual Artist on my free time</h3>
 
 - 🌱 I’m currently learning **GCP BIG QUERY, and DBT**
 
